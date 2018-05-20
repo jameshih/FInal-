@@ -137,5 +137,6 @@ contract Escrow{
           );
         }
 
-      }
+        function() public payable { }
 
+      }
