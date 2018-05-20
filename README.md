@@ -2,6 +2,8 @@
 
 Escrow contract 
 
+## Instructions
+
 Run `node compile.js` to get a json abi file in /build folder
 
 Run `node deploy.js` to deploy contract to rinkeby
